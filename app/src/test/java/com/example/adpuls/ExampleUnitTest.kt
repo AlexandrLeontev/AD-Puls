@@ -1,4 +1,4 @@
-package com.example.ad_puls_firestore
+package com.example.adpuls
 
 import org.junit.Test
 
